@@ -90,7 +90,7 @@ You don't need to number the list, just use the number "1." to mark an item in a
 
 ## Line Breaks
 
-Just use an html <br>
+Just use an HTML <br>
 tag to create a line break.
 
 ## Horizontal Rules
@@ -104,3 +104,31 @@ Here is a horizontal rule:
 > This is a block quote.
 >
 > With two paragraphs.
+
+
+## Code Blocks
+
+Markdown accepts HTML and CSS (when placed in an HTML ```<style></style>``` tag.)
+
+You can fence your code with ```triple tilde```.
+
+You can also define the language you are using:
+
+```html
+<body>
+    <h1>Hello World.</h1>
+</body>
+```
+
+```js
+let x = true;
+const dog = `Great Dane`;
+```
+
+You can also show diff in code...
+
+```diff
+var x = 100;
+- var y = 200;
++ var y = 300;
+```
