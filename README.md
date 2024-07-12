@@ -88,3 +88,19 @@ You don't need to number the list, just use the number "1." to mark an item in a
 
     ![Nested image](https://picsum.photos/200 "This is a nested image")
 
+## Line Breaks
+
+Just use an html <br>
+tag to create a line break.
+
+## Horizontal Rules
+
+Here is a horizontal rule:
+
+---
+
+## Block Quotes
+
+> This is a block quote.
+>
+> With two paragraphs.
