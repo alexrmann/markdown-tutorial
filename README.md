@@ -1,5 +1,6 @@
 # etch-a-sketch
-The Odin Project Foundations course Etch-a-Sketch challenge
+
+Based on Wes Bos' [Mastering Markdown](https://masteringmarkdown.com/) course.
 
 ## Text decoration
 
