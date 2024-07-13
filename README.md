@@ -178,4 +178,4 @@ You can define the alignment of elements with colons:
 
 ### Issue and user linking
 
-Adding an issue number like #1 and @user tags will provide GitHub specific links that are not part of the standard Markdown syntax.
+Adding an issue number like #1 and @alexrmann tags will provide GitHub specific links that are not part of the standard Markdown syntax.
