@@ -1,4 +1,4 @@
-# etch-a-sketch
+# Mastering Markdown
 
 Based on Wes Bos' [Mastering Markdown](https://masteringmarkdown.com/) course.
 
