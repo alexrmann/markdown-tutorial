@@ -167,3 +167,15 @@ You can define the alignment of elements with colons:
 |Heading 1|Heading 2|
 |:---------:|---------:|
 |Item 1|Item 2|
+
+## GitHub Syntax
+
+### Check boxes
+
+* [X] Milk
+* [ ] Eggs
+* [ ] Bacon
+
+### Issue and user linking
+
+Adding an issue number like #1 and @user tags will provide GitHub specific links that are not part of the standard Markdown syntax.
