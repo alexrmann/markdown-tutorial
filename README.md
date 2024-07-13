@@ -132,3 +132,38 @@ var x = 100;
 - var y = 200;
 + var y = 300;
 ```
+
+## Tables
+
+Tables are created by piping cells and positioning headings and data above or below defined column syntax, respectively.
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Item 1|Item 2|Item 3|
+|Item A|Item B|Item C|
+
+You can define the alignment of elements with colons:
+
+### Right Aligned
+
+|Heading 1|Heading 2|
+|---------:|---------:|
+|Item 1|Item 2|
+
+### Left Aligned
+
+|Heading 1|Heading 2|
+|:---------|:---------|
+|Item 1|Item 2|
+
+### Centered
+
+|Heading 1|Heading 2|
+|:---------:|:---------:|
+|Item 1|Item 2|
+
+### Mixed
+
+|Heading 1|Heading 2|
+|:---------:|---------:|
+|Item 1|Item 2|
